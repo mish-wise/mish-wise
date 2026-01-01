@@ -1,5 +1,5 @@
 ## Hi there 👋
-Aspiring fullstack,web Developer
+Aspiring fullstack, Developer
 Jetpack Compose|Kotlin|Firebase
 Kenya
 
