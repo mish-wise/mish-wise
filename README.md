@@ -1,9 +1,9 @@
 ## Hi there 👋
-Aspiring Android Developer
-Jetpack COmpose|Kotlin|Firebase
+Aspiring fullstack,web Developer
+Jetpack Compose|Kotlin|Firebase
 Kenya
 
-I'm a passionate developer focused on building real world mobile application that solve meaningful problems.
+I'm a passionate developer focused on building real world mobile,web application that solve meaningful problems.
 Currently,i specialize in modern Android development using Jetpack Compoose and FIrebase,with a strong intrest
 in emergency,safety,and productivity apps.
 
