@@ -1,4 +1,4 @@
-## # 💫 About Me:
+Hi! Mishwise 🦄️:
 full-stack developer building web and android applications.Skilled in frontend,backend,jetpack compose,kotilin,firebase ,and currently learning AI.Focused on consistency,growth and real-world problem solving 
 
 
